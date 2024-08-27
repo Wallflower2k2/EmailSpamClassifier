@@ -1,4 +1,5 @@
 # emailSpamClassifier
+# Output
 ![Screenshot 2024-08-27 212906](https://github.com/user-attachments/assets/7780abd9-24b5-4fbc-8ba0-ff5a1c5e340a)
 ![Screenshot 2024-08-27 212912](https://github.com/user-attachments/assets/8155130e-1a4c-4c42-937f-58b7530d48bf)
 ![Screenshot 2024-08-27 212922](https://github.com/user-attachments/assets/2e499bf2-49f7-4dfd-8bb2-8644ee5a348b)
